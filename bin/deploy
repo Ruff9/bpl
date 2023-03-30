@@ -1,5 +1,12 @@
 #!/bin/sh
 
+TIMESTAMP=$(date +%Y-%m-%d_%H-%M-%S)
+
+git checkout main
+git add .
+git commit -m "update site $TIMESTAMP"
+git push origin main
+
 git checkout gh-pages
 git merge main
 git push origin gh-pages
