@@ -17,5 +17,5 @@ Le collectif coordonne ce partage, gère l'entretien mécanique du véhicule, la
 
 On a toujours besoin d'argent et de gens pour aller à Rungis, viens tu vas voir c'est merveilleux !
 
-Contact : mail@decontact
+[Contact : lesbonspetitslegumes@gmail.com](mailto:lesbonspetitslegumes@gmail.com)
 {: .contact}
