@@ -16,3 +16,6 @@ Le camion est principalement destiné à la récupération d'invendus alimentair
 Le collectif coordonne ce partage, gère l'entretien mécanique du véhicule, la paperasse et l'argent. La mise en commun d'un objet fragile et cher demande une attention particulière, c'est un peu du care automobile ;)
 
 On a toujours besoin d'argent et de gens pour aller à Rungis, viens tu vas voir c'est merveilleux !
+
+Contact : mail@decontact
+{: .contact}
