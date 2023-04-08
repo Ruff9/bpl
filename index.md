@@ -5,9 +5,7 @@ title: Bon petits légumes
 
 # Bons petits légumes
 
-Si vous avez mangé dans une cantine ou un événement militant de Montreuil et de ses environs ;
-Si vous avez profité de l'activité d'un squat ou d'une association dans la même région ;
-Vous ne le savez peut-être pas, mais vous avez été bénéficiaire des Bons petits légumes. 
+Si vous avez mangé dans une cantine ou un événement militant de Montreuil et de ses environs ; Si vous avez profité de l'activité d'un squat ou d'une association dans la même région ; Vous ne le savez peut-être pas, mais vous avez été bénéficiaire des Bons petits légumes. 
 
 Nous sommes un collectif anticapitaliste qui lutte pour l'autonomie alimentaire à travers la gestion d'un camion collectif. Notre but est de rendre accessibles des légumes à prix libre au plus de gens possibles, et de soutenir toute initiative contre la précarité alimentaire. Dans une société à la précarité croissante, la première étape de la solidarité, c'est l'entraide alimentaire. 
 
